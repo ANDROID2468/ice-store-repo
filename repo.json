@@ -1323,6 +1323,14 @@
 			"description": "A subscription password manager with advanced security features",
 			"catagory": "accessories",
 			"price": "Subscription"
+			},
+		{	
+			"id": "bible",
+			"name": "Bible",
+			"url": "https://my.bible.com/",
+			"description": "an online bible viewer by YouVerison",
+			"catagory": "internet",
+			"price": "Free"
 		
 		}
 	]
